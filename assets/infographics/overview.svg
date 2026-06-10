@@ -1,0 +1,35 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" rx="32" fill="#081120"/>
+  <rect x="24" y="24" width="1232" height="672" rx="28" fill="#0C1730"/>
+  <text x="72" y="90" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700">nerdPRM Product Story</text>
+  <text x="72" y="128" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="20">The public layer currently proves product direction and system intent more than implementation breadth.</text>
+
+  <rect x="72" y="180" width="248" height="116" rx="18" fill="#13233B"/>
+  <text x="102" y="228" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Project Intake</text>
+  <text x="102" y="264" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">turn requests into structured work</text>
+
+  <rect x="374" y="180" width="248" height="116" rx="18" fill="#13233B"/>
+  <text x="404" y="228" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">AI Planning</text>
+  <text x="404" y="264" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">assist breakdown and execution shaping</text>
+
+  <rect x="676" y="180" width="248" height="116" rx="18" fill="#13233B"/>
+  <text x="706" y="228" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Team Visibility</text>
+  <text x="706" y="264" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">who is doing what and where it stands</text>
+
+  <rect x="978" y="180" width="230" height="116" rx="18" fill="#13233B"/>
+  <text x="1008" y="228" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Knowledge</text>
+  <text x="1008" y="264" fill="#AEBEDB" font-family="Segoe UI, Arial, sans-serif" font-size="20">keep project context durable</text>
+
+  <rect x="72" y="360" width="536" height="254" rx="22" fill="#101D35"/>
+  <text x="104" y="408" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">What the public landing page proves</text>
+  <text x="104" y="452" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• AI is positioned as a product workflow, not a gimmick</text>
+  <text x="104" y="492" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• Arabic-first language is native to the product story</text>
+  <text x="104" y="532" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• project, team, boards, and AI read as one system direction</text>
+  <text x="104" y="572" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• public release discipline is stronger than oversharing weak screens</text>
+
+  <rect x="644" y="360" width="564" height="254" rx="22" fill="#101D35"/>
+  <text x="676" y="408" fill="#7ED7FF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">What comes later</text>
+  <text x="676" y="452" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• AI Lab surfaces</text>
+  <text x="676" y="492" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• new project intake flows</text>
+  <text x="676" y="532" fill="#E8F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="24">• deeper case studies around execution and knowledge capture</text>
+</svg>

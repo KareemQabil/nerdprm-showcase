@@ -9,6 +9,8 @@ This repo exists to present the product direction clearly without exposing priva
 - [Product direction notes](docs/product-direction.md)
 - [Route surface notes](docs/route-surface-notes.md)
 
+![nerdPRM product story](assets/infographics/overview.svg)
+
 ## What this showcase covers
 
 - Real landing-page screenshot from a safe local copy
