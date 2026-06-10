@@ -11,6 +11,15 @@ This repo exists to present the product direction clearly without exposing priva
 - Route-level module map based on source inspection
 - Public explanation of what the product is trying to solve
 
+## Why this product exists
+
+nerdPRM is aimed at the gap between an idea and reliable execution:
+
+- teams collect requirements but lose clarity during delivery
+- project intake becomes disconnected from actual planning
+- AI features are often bolted on instead of tied to execution workflows
+- knowledge and operational context become scattered across tools
+
 ## Product direction
 
 nerdPRM is positioned around the gap between an idea and reliable execution:
@@ -21,7 +30,27 @@ nerdPRM is positioned around the gap between an idea and reliable execution:
 - knowledge capture around delivery
 - Arabic-first interface direction for modern product teams
 
-## Module map
+## Why this public showcase is narrower right now
+
+The public proof is intentionally narrower than the product ambition:
+
+- the strongest safe capture available today is the landing surface
+- deeper operational routes exist in the code surface but are better presented later as curated case-study material
+- the public layer is meant to communicate the system direction honestly without over-claiming what is ready to publish
+
+## Module map from source inspection
+
+| Surface | Public signal available here |
+| --- | --- |
+| Landing and onboarding | Real screenshot in this repo |
+| Dashboard | Present in route structure |
+| Projects and new-project intake | Present in route structure |
+| Team | Present in route structure |
+| Knowledge | Present in route structure |
+| AI Lab | Present in route structure |
+| Settings | Present in route structure |
+
+## System map
 
 ```mermaid
 flowchart LR
@@ -35,6 +64,17 @@ flowchart LR
     F --> I[Agent-driven planning and execution support]
 ```
 
+## Example product journey
+
+```mermaid
+flowchart TD
+    A[Idea or business request] --> B[Project intake]
+    B --> C[AI-assisted planning]
+    C --> D[Team assignment and visibility]
+    D --> E[Knowledge capture]
+    E --> F[Execution feedback loop]
+```
+
 ## Public evidence
 
 ### Real landing surface
@@ -43,7 +83,13 @@ The screenshot below was captured from a safe local copy of the frontend.
 
 ![nerdPRM landing page](assets/screenshots/nerdprm-home.png)
 
-## Why this repo is public-safe
+## What the landing page already proves
+
+- AI assistance is presented as a central product capability, not a decorative label
+- Arabic is treated as the native product language rather than a translated afterthought
+- the product story connects team management, boards, and agent workflows into one direction
+
+## What still remains private or not yet curated
 
 The current public layer focuses on product shape and interface direction:
 
@@ -58,6 +104,14 @@ It does not expose:
 - production datasets
 - internal integrations
 - unstable implementation details that should be curated before publication
+
+## What can be added later
+
+Future public-safe additions can include:
+
+- sanitized screenshots for AI Lab and project intake
+- deeper architecture notes around agent-assisted planning flows
+- a case study on how the product connects ideas, execution, and knowledge capture
 
 ## What stands out
 
