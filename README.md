@@ -17,6 +17,12 @@ This repo is intentionally narrower than the private working direction behind it
 - product framing for project intake, AI assistance, team visibility, and knowledge workflows
 - route-level scope for dashboard, projects, team, knowledge, AI Lab, and settings
 
+## What this repo proves publicly
+
+- the product is framed around execution clarity rather than generic task tracking
+- AI assistance is treated as a core workflow lane, not a decorative feature
+- Arabic-first interface direction is built into the product story from the start
+
 ## Product framing
 
 nerdPRM is aimed at a common execution gap:
@@ -60,6 +66,18 @@ flowchart LR
 - AI assistance is presented as a core product lane, not a decorative label
 - Arabic is treated as a primary interface direction instead of a translated afterthought
 - the route surface points to a broader system with projects, team, knowledge, and AI Lab modules
+
+## Route coverage visible from source inspection
+
+| Surface | Public signal today |
+| --- | --- |
+| Landing and onboarding | Real screenshot in this repo |
+| Dashboard | Present in route structure |
+| Projects and intake | Present in route structure |
+| Team visibility | Present in route structure |
+| Knowledge workspace | Present in route structure |
+| AI Lab | Present in route structure |
+| Settings | Present in route structure |
 
 ## Why this repo is narrower than the others
 
